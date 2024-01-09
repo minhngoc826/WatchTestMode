@@ -5,9 +5,10 @@
   "main": "app.js", 
   "repository": {
       "type": "git",
-      "url": "https://github.com/minhngoc826/WatchTestMode.git"
+      "url": "https://github.com/minhngoc826/WatchTestMode"
   },
   "scripts": { 
+      "start": "echo \"start\" && node app.js",
       "test": "echo \"Error: no test specified\" && exit 1" 
   },
     "keywords": [], 
